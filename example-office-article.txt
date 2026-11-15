@@ -1,0 +1,9 @@
+Group D office, 2 storeys, facing 2 streets:
+
+$ python3 building_size_finder.py --group D --storeys 2 --streets 2
+
+Candidate articles include 3.2.2.62 (3 storeys max, combustible or noncombustible, not sprinklered):
+   Max building area at 2 storeys facing 2 street(s): 3000 m2
+and 3.2.2.58 (6 storeys max, noncombustible, not sprinklered):
+   Max building area at 2 storeys facing 2 street(s): NL m2
+(Full listing prints every Group D article in the index.)

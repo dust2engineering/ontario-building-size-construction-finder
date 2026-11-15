@@ -1,0 +1,451 @@
+{
+ "code": "Ontario Building Code 2024, Subsection 3.2.2 (Building Size and Construction Relative to Occupancy)",
+ "streets_rule_3_2_2_10": "Every building faces 1 street; it faces 2 streets if not less than 50% of the building perimeter is within 15 m of a street, and 3 streets if not less than 75% is within 15 m.",
+ "coverage_note": "This index lists the 3.2.2 articles whose identity, storey limit and title-level sprinkler status were verified against the O. Reg. 163/24 article index and OBC 2024 text. Maximum-area tables are reproduced only where they could be extracted completely and cross-checked; other articles say 'refer to article' instead of guessing. Sprinkler status is per the article title; always confirm against Article 3.2.2.18 and the article text.",
+ "articles": [
+  {
+   "article": "3.2.2.20",
+   "group": "A-1",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.23",
+   "group": "A-2",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.24",
+   "group": "A-2",
+   "max_storeys": 6,
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.25",
+   "group": "A-2",
+   "max_storeys": 2,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Area table excluded: public sources conflict on the 1-storey/1-street value (600 vs 1600 m2). Read the article."
+  },
+  {
+   "article": "3.2.2.29",
+   "group": "A-3",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.30",
+   "group": "A-3",
+   "max_storeys": 2,
+   "construction": "noncombustible (heavy timber roof permitted)",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     4000,
+     5000,
+     6000
+    ],
+    "2": [
+     2000,
+     2500,
+     3000
+    ]
+   },
+   "note": "If intended for occasional trade-show/exhibition use and building area > 1500 m2, the building must be sprinklered throughout (3.2.2.30.(3))."
+  },
+  {
+   "article": "3.2.2.35",
+   "group": "A-4",
+   "max_storeys": "any height",
+   "construction": "combustible permitted if occupant load < 1500 and limiting distance >= 6 m",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Open-air occupancy; area governed by the article, not a streets table."
+  },
+  {
+   "article": "3.2.2.36",
+   "group": "B-1",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.38",
+   "group": "B-2",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.42",
+   "group": "B-3",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.47",
+   "group": "C",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.48",
+   "group": "C",
+   "max_storeys": 12,
+   "construction": "encapsulated mass timber",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Areas per Table 3.2.2.93 (not reproduced in this tool)."
+  },
+  {
+   "article": "3.2.2.50",
+   "group": "C",
+   "max_storeys": 4,
+   "construction": "noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     "NL",
+     "NL",
+     "NL"
+    ],
+    "2": [
+     6000,
+     "NL",
+     "NL"
+    ],
+    "3": [
+     4000,
+     5000,
+     6000
+    ],
+    "4": [
+     3000,
+     3750,
+     4500
+    ]
+   },
+   "note": ""
+  },
+  {
+   "article": "3.2.2.53",
+   "group": "C",
+   "max_storeys": 3,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required (increased area article)",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Increased-area article; area table partially illegible in public sources - read the article."
+  },
+  {
+   "article": "3.2.2.54",
+   "group": "C",
+   "max_storeys": 3,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Area table partially illegible in public sources - read the article."
+  },
+  {
+   "article": "3.2.2.55A",
+   "group": "C (retirement home)",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.56",
+   "group": "D",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": "Sprinkler requirement new in the 2024 Code for this article."
+  },
+  {
+   "article": "3.2.2.57",
+   "group": "D",
+   "max_storeys": 12,
+   "construction": "encapsulated mass timber",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Areas per Table 3.2.2.93 (not reproduced in this tool)."
+  },
+  {
+   "article": "3.2.2.58",
+   "group": "D",
+   "max_storeys": 6,
+   "construction": "noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     "NL",
+     "NL",
+     "NL"
+    ],
+    "2": [
+     7200,
+     "NL",
+     "NL"
+    ],
+    "3": [
+     4800,
+     6000,
+     7200
+    ],
+    "4": [
+     3600,
+     4500,
+     5400
+    ],
+    "5": [
+     2800,
+     3600,
+     4320
+    ],
+    "6": [
+     2400,
+     3000,
+     3600
+    ]
+   },
+   "note": ""
+  },
+  {
+   "article": "3.2.2.62",
+   "group": "D",
+   "max_storeys": 3,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     4800,
+     6000,
+     7200
+    ],
+    "2": [
+     2400,
+     3000,
+     3600
+    ],
+    "3": [
+     1600,
+     2000,
+     2400
+    ]
+   },
+   "note": ""
+  },
+  {
+   "article": "3.2.2.66",
+   "group": "E",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.68",
+   "group": "E",
+   "max_storeys": 3,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Area table partially illegible in public sources (3-storey/3-street cell) - read the article."
+  },
+  {
+   "article": "3.2.2.70",
+   "group": "E",
+   "max_storeys": 2,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Area table partially illegible in public sources (2-storey/3-street cell) - read the article."
+  },
+  {
+   "article": "3.2.2.76",
+   "group": "F-2",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.78",
+   "group": "F-2",
+   "max_storeys": 3,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     1500,
+     1500,
+     1500
+    ],
+    "2": [
+     1500,
+     1500,
+     1500
+    ],
+    "3": [
+     1070,
+     1340,
+     1500
+    ]
+   },
+   "note": ""
+  },
+  {
+   "article": "3.2.2.80",
+   "group": "F-2",
+   "max_storeys": 2,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Area table partially illegible in public sources (2-storey/3-street cell) - read the article."
+  },
+  {
+   "article": "3.2.2.82",
+   "group": "F-3",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": ""
+  },
+  {
+   "article": "3.2.2.83",
+   "group": "F-3",
+   "max_storeys": 6,
+   "construction": "noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     "NL",
+     "NL",
+     "NL"
+    ],
+    "2": [
+     7200,
+     9000,
+     10800
+    ],
+    "3": [
+     4800,
+     6000,
+     7200
+    ],
+    "4": [
+     3600,
+     4500,
+     5400
+    ],
+    "5": [
+     2880,
+     3600,
+     4320
+    ],
+    "6": [
+     2400,
+     3000,
+     3600
+    ]
+   },
+   "note": ""
+  },
+  {
+   "article": "3.2.2.85",
+   "group": "F-3",
+   "max_storeys": 4,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": {
+    "1": [
+     4800,
+     6000,
+     7200
+    ],
+    "2": [
+     2400,
+     3000,
+     3600
+    ],
+    "3": [
+     1600,
+     2000,
+     2400
+    ],
+    "4": [
+     1200,
+     1500,
+     1800
+    ]
+   },
+   "note": ""
+  },
+  {
+   "article": "3.2.2.87",
+   "group": "F-3",
+   "max_storeys": 2,
+   "construction": "combustible or noncombustible",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Area table partially illegible in public sources (2-storey/1-street cell) - read the article."
+  },
+  {
+   "article": "3.2.2.91",
+   "group": "F-3",
+   "max_storeys": 1,
+   "construction": "per article (low fire load occupancy)",
+   "sprinkler_per_article_title": "not required",
+   "max_building_area_m2_by_storeys_and_streets": "NL",
+   "note": "Any building area, low fire load occupancy."
+  },
+  {
+   "article": "3.2.2.92",
+   "group": "storage garage",
+   "max_storeys": "any height",
+   "construction": "per article",
+   "sprinkler_per_article_title": "per article",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "Storage garages up to 22 m high; height-based article."
+  },
+  {
+   "article": "3.2.2.93",
+   "group": "A-2, B-3, C, D, E, F-2, F-3 (EMTC)",
+   "max_storeys": "any height",
+   "construction": "encapsulated mass timber or noncombustible",
+   "sprinkler_per_article_title": "required",
+   "max_building_area_m2_by_storeys_and_streets": null,
+   "note": "EMTC umbrella article; Table 3.2.2.93 values not reproduced in this tool."
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+Group E, sprinklered, any height:
+
+$ python3 building_size_finder.py --group E
+
+3.2.2.66 | Group E | max storeys: any height | sprinklers (per title): required
+   Max building area: not limited by this article.
